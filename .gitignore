@@ -1,0 +1,7 @@
+/node_modules/
+
+# Eclipse project files
+/.project
+/.settings/
+/.jshintrc
+/.tern-project
