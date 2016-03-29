@@ -1,0 +1,19 @@
+{
+  "name": "nodejs_auto_deploy",
+  "version": "1.0.0",
+  "description": "App to test NodeJS auto deploy",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://codeninja_kjetil@bitbucket.org/codeninja_kjetil/nodejs-auto-deploy.git"
+  },
+  "author": "Kjetil Lund",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/codeninja_kjetil/nodejs-auto-deploy#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
